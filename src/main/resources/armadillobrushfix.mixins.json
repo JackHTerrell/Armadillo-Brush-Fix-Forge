@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.jackbusters.armadillobrushfix.mixins",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "allarrowsinfinityfix.mixins.refmap.json",
+  "mixins": [
+    "ArmadilloFix"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+  }
+  
